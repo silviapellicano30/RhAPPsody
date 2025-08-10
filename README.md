@@ -35,5 +35,5 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 
 ## 🏛️ About the Museum
 
-The Music Museum and Music Library of Bologna hosts a rich collection of historical instruments, manuscripts, and recordings.  
-Learn more here: [The Museum](https://www.museibologna.it/musica/).  
+The Music Museum and Music Library of Bologna hosts a rich collection of historical instruments, manuscripts, and documents.  
+Learn more here: [Museo internazionale e biblioteca della musica](https://www.museibologna.it/musica/).  
