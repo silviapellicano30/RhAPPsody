@@ -8,7 +8,7 @@
 
 ## 🎵 What is RhAPPsody?
 
-RhAPPsody is an **interactive application** designed for the exam of Digital Heritage and Multimedia at [Alma Mater Studiorum- Digital Humanities and Digital Knowledge Master's degree] (https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge). 
+RhAPPsody is an **interactive application** designed for the exam of Digital Heritage and Multimedia at [Alma Mater Studiorum- Digital Humanities and Digital Knowledge Master's degree](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge). 
 The app allows visitors to **explore and interact with the musical instruments** in the museum’s collection in a unique and engaging way.  
 
 ---
