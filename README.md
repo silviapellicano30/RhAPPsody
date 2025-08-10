@@ -1,5 +1,5 @@
 # RhAPPsody
-<p align="center">
-<img src="img/logo.jpg" alt="RhAPPsody-logo" width="300"/> 
+<p>
+<img src="img/logo.jpg" alt="RhAPPsody-logo" width="300"/> An interactive application for a music museum. 
 </p>
-RhAPPsody - an interactive application for a music museum 
+
