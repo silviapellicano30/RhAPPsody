@@ -6,11 +6,6 @@
 
 ## 🎵 What is RhAPPsody?
 
-<audio controls>
-  <source src="music/Under the tree.mp3" type="audio/mpeg">
-  Your browser doesn't support the audio.
-</audio>
-
 RhAPPsody is an **interactive application** designed for the exam of Digital Heritage and Multimedia at [Alma Mater Studiorum- Digital Humanities and Digital Knowledge Master's degree](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge). 
 The app allows visitors to **explore and interact with the musical instruments** in the museum’s collection in a unique and engaging way.  
 
@@ -40,3 +35,6 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 
 The Music Museum and Music Library of Bologna hosts a rich collection of historical instruments, manuscripts, and documents.  
 Learn more here: [Museo internazionale e biblioteca della musica](https://www.museibologna.it/musica/).  
+
+
+[You can listen to the background music here](media/Under the Tree.mp3)
