@@ -35,6 +35,3 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 
 The Music Museum and Music Library of Bologna hosts a rich collection of historical instruments, manuscripts, and documents.  
 Learn more here: [Museo internazionale e biblioteca della musica](https://www.museibologna.it/musica/).  
-
-
-[You can listen to the background music here](music/Under the tree.mp3)
