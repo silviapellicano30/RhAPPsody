@@ -35,3 +35,7 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 
 The Music Museum and Music Library of Bologna hosts a rich collection of historical instruments, manuscripts, and documents.  
 Learn more here: [Museo internazionale e biblioteca della musica](https://www.museibologna.it/musica/).  
+
+## ​🌷​ Try RhAPPsody
+
+You can try the prototype of the application [here](https://www.figma.com/proto/ZHOLIW11dupzXN1Ogj1Cig/RhAPPsody?page-id=0%3A1&node-id=67-151&viewport=-74%2C69%2C0.28&t=RFt7pa1CWiHIInaf-1&scaling=scale-down&content-scaling=responsive&starting-point-node-id=94%3A334). 
