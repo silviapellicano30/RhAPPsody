@@ -30,6 +30,12 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 - **User-friendly interface:** Designed to be intuitive for visitors of all ages and backgrounds.  
 
 ---
+## 👩‍💻 About the Project 
+
+This project was created as part of the Digital Heritage and Multimedia course in the Digital Humanities and Digital Knowledge program at the University of Bologna. The chosen case study is the Museo e Biblioteca della Musica in Bologna. All photographs were taken exclusively for academic purposes, with no commercial intent, by Silvia Pellicano. The design was crafted in Figma and enriched with advanced interactions using Protopie. The AI-generated images were created with ChatGPT; the AI-generated audio with ElevenLabs. 
+The background music and the illustrations were created by Ilaria De Dominicis.
+
+---
 
 ## 🏛️ About the Museum
 
@@ -38,4 +44,4 @@ Learn more here: [Museo internazionale e biblioteca della musica](https://www.mu
 
 ## ​🌷​ Try RhAPPsody
 
-You can try the prototype of the application [here](https://www.figma.com/design/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?node-id=0-1&t=mxaitgWdn0Emm5gE-1). 
+You can try and see the prototype of the application [here](https://www.figma.com/design/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?node-id=0-1&t=mxaitgWdn0Emm5gE-1). 
