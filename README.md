@@ -26,7 +26,7 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 
 - **Instrument interaction:** Play and learn about historical instruments from the museum's collection.  
 - **Storytelling:** Discover tales and legends about musical heritage through Bard’s voice.  
-- **Multimedia library:** Access sounds, videos, and images related to Bologna’s musical culture.  
+- **Multimedia library:** Access sounds, images and audioguides from the museum. 
 - **User-friendly interface:** Designed to be intuitive for visitors of all ages and backgrounds.  
 
 ---
@@ -44,4 +44,8 @@ Learn more here: [Museo internazionale e biblioteca della musica](https://www.mu
 
 ## ​🌷​ Try RhAPPsody
 
-You can try and see the prototype of the application [here](https://www.figma.com/design/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?node-id=0-1&t=mxaitgWdn0Emm5gE-1). 
+You can try and see the prototype of the application [on Figma...](https://www.figma.com/design/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?node-id=0-1&t=mxaitgWdn0Emm5gE-1). 
+
+## 🪉​ PLay the Harp
+
+...and don't forget to play the harp on [Protopie.](https://cloud.protopie.io/p/45f7f88aa8f337455d9c8d3c)
