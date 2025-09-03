@@ -27,7 +27,7 @@ With him by your side, dive into melodies, discover stories behind instruments, 
 Our main goal is to bridge the gap between people and music, making it feel simple and intuitive. For many, music can seem like a world only for the pros, but we believe it's for everyone.
 
 - **Instrument interaction:** Play and interact with the historical instruments from the museum's collection.
-- - **Detective of the Past:** Help Bard understand the difference between real and AI musical instruments.
+- **Detective of the Past:** Help Bard understand the difference between real and AI musical instruments.
 - **Personality Test**: Find out which musical instrument is your perfect match.  
 - **Storytelling:** Discover tales, legends and audioguides about musical heritage through Bard’s voice.  
 - **Multimedia library:** Access the images of the museum's rich collection.
