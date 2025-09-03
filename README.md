@@ -50,6 +50,6 @@ Learn more here: [Museo internazionale e biblioteca della musica](https://www.mu
 
 You can try and see the prototype of the application on [Figma](https://www.figma.com/design/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?node-id=0-1&t=mxaitgWdn0Emm5gE-1)...
 
-## 🪉​ PLay the Harp
+## 🪉​ Play the Harp
 
 ...and don't forget to play the harp on [Protopie](https://cloud.protopie.io/p/45f7f88aa8f337455d9c8d3c).
