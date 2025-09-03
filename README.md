@@ -38,4 +38,4 @@ Learn more here: [Museo internazionale e biblioteca della musica](https://www.mu
 
 ## ​🌷​ Try RhAPPsody
 
-You can try the prototype of the application [here](https://www.figma.com/proto/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?page-id=0%3A1&node-id=50-99&viewport=101%2C281%2C0.31&t=rguiQ3YFU7saTRhI-1&scaling=scale-down&content-scaling=fixed). 
+You can try the prototype of the application [here](https://www.figma.com/design/qYttvPAvZ8BNhzsjpzpT1v/RhAPPsody?node-id=0-1&t=mxaitgWdn0Emm5gE-1). 
